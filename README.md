@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm ME</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Akhil's GitHub Profile README
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-akhil&label=Profile%20views&color=0e75b6&style=flat" alt="its-akhil" /> </p>
+![Profile Banner](https://github.com/Its-Akhil/Its-Akhil/blob/main/banner.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-akhil" alt="its-akhil" /></a> </p>
+## Hey there! 👋
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+👨‍💻 I'm Akhil, a passionate developer from somewhere on this beautiful planet. Welcome to my GitHub profile!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/its-akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="its-akhil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akhildot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhildot" height="30" width="40" /></a>
-<a href="https://kaggle.com/itsakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itsakhil" height="30" width="40" /></a>
-<a href="https://medium.com/@its-akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@its-akhil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/askergupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="askergupta" height="30" width="40" /></a>
-<a href="/https://www.google.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.google.com" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Its-Akhil&color=brightgreen)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### 🔭 What I Do
+- I enjoy exploring new technologies and frameworks that help me build interesting and impactful projects.
+- I specialize in web development, utilizing a variety of programming languages and tools.
+- My tech stack includes:
+  - Languages: Jupyter Notebook, TypeScript, JavaScript, HTML, CSS, and Python.
+  - Frameworks and Libraries: Flask, Angular, React, Bootstrap, and Express.
+  - Databases: MySQL, MongoDB, and SQLite.
+  - Others: AWS, Docker, Firebase, Selenium, and OpenCV. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-akhil&show_icons=true&locale=en&layout=compact" alt="its-akhil" /></p>
+### 🚀 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-akhil&show_icons=true&locale=en" alt="its-akhil" /></p>
+```
+const akhil = {
+  pronouns: "He" | "Him",
+  code: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+  askMeAbout: ["web development", "data science", "machine learning", "ethereum"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["Angular", "React"],
+      css: ["Bootstrap", "Tailwind CSS"]
+    },
+    backEnd: {
+      frameworks: ["Flask", "Express"],
+      databases: ["MySQL", "MongoDB"]
+    },
+    devOps: ["Docker", "AWS"],
+    misc: ["Firebase", "Selenium", "OpenCV"]
+  },
+  currentFocus: "Exploring new front-end technologies",
+  funFact: "There are 10 types of people in the world: those who understand binary, and those who don't"
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-akhil&" alt="its-akhil" /></p>
+### 👨‍💻 Projects
+
+Here are a few highlighted projects from my GitHub profile.
+
+| Repository             | Description      | Language    | Stars |
+| ---------------------- | ---------------- | ----------- | ------|
+| [Project 1](https://github.com/username/project1)          | Short description | JavaScript | ⭐⭐⭐ |
+| [Project 2](https://github.com/username/project2)          | Short description | Python      | ⭐⭐   |
+| [Project 3](https://github.com/username/project3)          | Short description | TypeScript | ⭐     |
+| [Project 4](https://github.com/username/project4)          | Short description | Jupyter Notebook | ⭐ |
+| [Project 5](https://github.com/username/project5)          | Short description | HTML/CSS       |   |
+
+Please make sure to check out my [GitHub repositories](https://github.com/Its-Akhil?tab=repositories) for more projects.
+
+### ✉️ Connect With Me
+
+- Email: akhil@example.com
+- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-linkedin-url)
+
+![GitHub Followers](https://img.shields.io/github/followers/Its-Akhil?style=social)
+
+Feel free to reach out with any questions or collaboration ideas!
+
+### 📊 GitHub Insights
+
+Here's an analysis that explores my GitHub profile activity and insights:
+
+- Number of repositories: 7
+- Total commits: 26
+- Followers: 0
+- Hireable status: Not hireable
+- Most starred repository: [its-Akhil](https://github.com/Its-Akhil/its-Akhil) | This repository has not gained much traction yet.
+
+Whoops! It seems like I'm still in the process of building up my GitHub presence. But don't worry, more amazing projects are on the way! Stay tuned for updates.
+
+### ✨ Fun Fact
+
+Did you know? There are two ways to write error-free programs; only the third one works!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Its-Akhil&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Akhil&layout=compact)
