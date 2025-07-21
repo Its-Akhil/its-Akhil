@@ -36,7 +36,7 @@ const akhil = {
     devOps: ["Docker", "AWS"],
     misc: ["Firebase", "Selenium", "OpenCV"]
   },
-  currentFocus: "Exploring new front-end technologies",
+  currentFocus: "Exploring containerization and CI/CD for rapid deployment",
   funFact: "There are 10 types of people in the world: those who understand binary, and those who don't"
 };
 ```
@@ -57,8 +57,8 @@ Please make sure to check out my [GitHub repositories](https://github.com/Its-Ak
 
 ### ✉️ Connect With Me
 
-- Email: akhil@example.com
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-linkedin-url)
+- Email: gupta.akhil.work@gmail.com
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/akhildot/)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Its-Akhil?style=social)
 
